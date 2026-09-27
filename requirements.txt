@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+python-dotenv
+google-genai
+requests
+
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
